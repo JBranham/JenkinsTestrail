@@ -1,0 +1,82 @@
+{
+  "RanorexSuites": [
+    {
+      "Id": "aeba16f3-352e-41ee-ab5e-65b36d99072f/c15da4a2-0611-4a66-9dcf-32f8d28d3b6d",
+      "Pid": "40bcda6e-258a-4b63-93fe-a9bf41a591bd/aeba16f3-352e-41ee-ab5e-65b36d99072f",
+      "Name": "TestRailJenkins"
+    }
+  ],
+  "CaseFields": [],
+  "ResultFields": [],
+  "TestRailProject": {
+    "Id": "P32",
+    "Pid": null,
+    "Name": "TestRailJenkins",
+    "BaseUri": "https://ranorexintegration.testrail.io/",
+    "ProjectSuiteMode": 3,
+    "ProjectCustomizations": {
+      "TemplateId": 1,
+      "CaseTypeId": 3
+    }
+  },
+  "Projects": [
+    {
+      "Rx": {
+        "Id": "40bcda6e-258a-4b63-93fe-a9bf41a591bd/aeba16f3-352e-41ee-ab5e-65b36d99072f",
+        "Pid": "40bcda6e-258a-4b63-93fe-a9bf41a591bd/40bcda6e-258a-4b63-93fe-a9bf41a591bd",
+        "Name": "TestRailJenkins"
+      },
+      "Tr": null
+    }
+  ],
+  "TestSuites": [
+    {
+      "Rx": {
+        "Id": "aeba16f3-352e-41ee-ab5e-65b36d99072f/c15da4a2-0611-4a66-9dcf-32f8d28d3b6d",
+        "Pid": "40bcda6e-258a-4b63-93fe-a9bf41a591bd/aeba16f3-352e-41ee-ab5e-65b36d99072f",
+        "Name": "TestRailJenkins"
+      },
+      "Tr": {
+        "Id": "S40",
+        "Pid": "P32",
+        "Name": "TestRailJenkins"
+      }
+    }
+  ],
+  "Sections": [
+    {
+      "Rx": null,
+      "Tr": {
+        "Id": "G55",
+        "Pid": "S40",
+        "Name": "TestRailJenkins"
+      }
+    }
+  ],
+  "Cases": [
+    {
+      "Rx": {
+        "Id": "c15da4a2-0611-4a66-9dcf-32f8d28d3b6d/fb7ec4cb-1758-4e7c-97ef-2f5f4a238c70",
+        "Pid": "aeba16f3-352e-41ee-ab5e-65b36d99072f/c15da4a2-0611-4a66-9dcf-32f8d28d3b6d",
+        "Name": "AddUserTC"
+      },
+      "Tr": {
+        "Id": "C90",
+        "Pid": "G55",
+        "Name": "AddUserTC"
+      }
+    },
+    {
+      "Rx": {
+        "Id": "c15da4a2-0611-4a66-9dcf-32f8d28d3b6d/ed44145b-b10f-46f8-b723-bd87466fad46",
+        "Pid": "aeba16f3-352e-41ee-ab5e-65b36d99072f/c15da4a2-0611-4a66-9dcf-32f8d28d3b6d",
+        "Name": "EmptyByDefaultTC"
+      },
+      "Tr": {
+        "Id": "C91",
+        "Pid": "G55",
+        "Name": "EmptyByDefaultTC"
+      }
+    }
+  ]
+}
