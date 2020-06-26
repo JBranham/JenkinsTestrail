@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="2635081b-6aa7-4420-9289-420398eb96ec"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="ValidateOneUser"
+	namespace="TestRailJenkins">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<validationitem
+		action="AttributeEqual"
+		duration="100ms"
+		enabled="True"
+		optional="False"
+		searchpropertyid="cea358e0-371a-4d98-a7eb-4a54a5445c93">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="85785a4b-5eb5-44ba-831e-d5d02c7342f6"
+			sourcename="ElementTree">
+				<element
+				capabilities="webelement, tdtag"
+				dontcache="True"
+				enabled="True"
+				flavor="firefoxweb"
+				hasfocus="False"
+				index="0"
+				prefcap="tdtag"
+				rect="2705,617,341,22"
+				role="unknown"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="draggable"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="hidden"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="id"
+					type="System.String">
+						count
+					</attribute>
+					<attribute
+					name="innertext"
+					type="System.String">
+						VIP count: 1
+					</attribute>
+					<attribute
+					name="tagname"
+					type="System.String">
+						td
+					</attribute>
+					<attribute
+					name="align"
+					type="System.String">
+						center
+					</attribute>
+				</element>
+				<path>
+					/dom[@domain='www.ranorex.com']//td[#'count']
+				</path>
+			</info>
+			<helperscreenshot
+			guid="5120c3c5-bc60-477f-ba2d-6a5b155a816a">
+				/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDABwTFRgVERwYFhgfHRwhKUUtKSYmKVQ8QDJFZFhpZ2JY
+YF9ufJ6GbnWWd19giruLlqOpsbOxa4TC0MGszp6usar/2wBDAR0fHykkKVEtLVGqcmByqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqr/wAARCAA2AfQDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDpKKKK
+ACiiigAooooAKKKKAGL0P1P86dTV6H6n+dRXl1HZxCSQMQW2/KP8+lDdhN2J6KzP7ctv+ec35D/G
+j+3Lb/nnN+Q/xqeePcnnj3NOisz+3Lb/AJ5zfkP8aP7ctv8AnnN+Q/xo549w549zTorM/ty2/wCe
+c35D/Gj+3Lb/AJ5zfkP8aOePcOePc0mUMpVhkHqKz5dN+bMTgD0btTf7ctv+ec35D/Gj+3Lb/nnN
++Q/xpc0SZOEtxv8AZs396P8AM/4Uf2bN/ej/ADP+FO/ty2/55zfkP8aP7ctv+ec35D/Gi8e5Nqfc
+b/Zs396P8z/hR/Zs396P8z/hTv7ctv8AnnN+Q/xo/ty2/wCec35D/Gi8e4Wp9x0WmndmVxj0XvWg
+qhVCqMAdBWb/AG5bf885vyH+NH9uW3/POb8h/jRzRKi4R2NOisz+3Lb/AJ5zfkP8aP7ctv8AnnN+
+Q/xp88e5XPHuadFZn9uW3/POb8h/jR/blt/zzm/If40c8e4c8e5p0Vmf25bf885vyH+NH9uW3/PO
+b8h/jRzx7hzx7mnRWZ/blt/zzm/If40f25bf885vyH+NHPHuHPHuadFZn9uW3/POb8h/jR/blt/z
+zm/If40c8e4c8e5p0Vmf25bf885vyH+NH9uW3/POb8h/jRzx7hzx7mnRWZ/blt/zzm/If40f25bf
+885vyH+NHPHuHPHuadQ3FulwmG4I6Edqpf25bf8APOb8h/jR/blt/wA85vyH+NHNEHOD3YjaZLn5
+XQj3yKT+zZv70f5n/Cnf25bf885vyH+NH9uW3/POb8h/jSvEztT7jf7Nm/vR/mf8KP7Nm/vR/mf8
+Kd/blt/zzm/If40f25bf885vyH+NF49wtT7if2bN/fj/ADP+FWrWySA72O5+3oKrf25bf885vyH+
+NH9uW3/POb8h/jRzRGvZrU06KzP7ctv+ec35D/Gj+3Lb/nnN+Q/xp88e5fPHuadFZn9uW3/POb8h
+/jR/blt/zzm/If40c8e4c8e5p0Vmf25bf885vyH+NH9uW3/POb8h/jRzx7hzx7mnRWZ/blt/zzm/
+If41fjl82JZFRsMAwzjvTUk9hqSexJRTdx/uH9KNx/uH9KZQ6im7j/cP6Ubj/cP6UAOopu4/3D+l
+G4/3D+lADqKbuP8AcP6Ubj/cP6UARy2sEzbpYlZsYyRRUm4/3D+lFAD6KKKACiiigAooooAKKKKA
+GL0P1P8AOs7X/wDjyT/roP5GtFeh+p/nWdr/APx5J/10H8jUz+FkT+FmizqrKpOC3T3przRo+1mw
+eOMepwKbdKTDuUZZDvH4VASJIjP/AM9JU2/7oIx/U/jVFk/2qIZ5bAOC2xsD8cYqaqcMcskLqJFV
+GZwRsycZPfP9KluSUt/lJVQQGI6hc80AT0VTd4wi7JmMJkwz7zxx/e9M+9Njm2MheQiMhwpY9eRj
+68UAXqQEEkAg44PtWdl2gZzJJlYFYYYjnnmp4fLEtwGcg7gTlyOMCgC3TY5ElTcjbl6ZFKyq6lWA
+IPUGobMAQEDgB2/9CNAE9FFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRR
+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
+AK9FFFAH/9k=
+			</helperscreenshot>
+			<matchname>
+				InnerText
+			</matchname>
+			<matchvalue>
+				VIP count: 1
+			</matchvalue>
+		</validationitem>
+	</recorditems>
+	<repository
+	id="7f0d82f3-8aa2-4059-ab31-ee9d369b88e7"
+	name="TestRailJenkinsRepository"
+	relativepath="TestRailJenkinsRepository.rxrep">
+		<codegen
+		classname="TestRailJenkinsRepository"
+		namespace="TestRailJenkins">
+		</codegen>
+		<rootfolder
+		id="0c8dce96-a0b2-4edf-8eca-1e3f343bb269"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		ValidateOneUser.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

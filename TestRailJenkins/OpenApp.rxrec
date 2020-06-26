@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="fe9b519b-124d-474c-82b0-bb1cb13af2ff"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="OpenApp"
+	namespace="TestRailJenkins">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<openwebsiterecorditem
+		args=""
+		browser="IE"
+		clearcache="False"
+		clearcookies="False"
+		enabled="True"
+		incognito="False"
+		instrument="True"
+		killexisting="False"
+		maximized="False"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<url>
+				https://www.ranorex.com/web-testing-examples/vip/
+			</url>
+		</openwebsiterecorditem>
+	</recorditems>
+	<repository
+	id="7f0d82f3-8aa2-4059-ab31-ee9d369b88e7"
+	name="TestRailJenkinsRepository"
+	relativepath="TestRailJenkinsRepository.rxrep">
+		<codegen
+		classname="TestRailJenkinsRepository"
+		namespace="TestRailJenkins">
+		</codegen>
+		<rootfolder
+		id="0c8dce96-a0b2-4edf-8eca-1e3f343bb269"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		OpenApp.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

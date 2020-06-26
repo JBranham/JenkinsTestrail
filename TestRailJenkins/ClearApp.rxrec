@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="14002a7a-78ad-4af2-a020-e0ec599a19ba"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="ClearApp"
+	namespace="TestRailJenkins">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="500ms"
+		enabled="True"
+		loc=".483;.25"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="7172d980-791a-4720-be0f-79de41d9d16a"
+		sx="3149"
+		sy="588"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="7e7a07c7-3af5-49d4-8bd8-af82acf6a7d8"
+			sourcename="Recorder">
+				<element
+				capabilities="webelement, inputtag"
+				dontcache="True"
+				enabled="True"
+				flavor="firefoxweb"
+				hasfocus="False"
+				index="0"
+				prefcap="inputtag"
+				rect="3121,582,58,24"
+				role="unknown"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="draggable"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="hidden"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="id"
+					type="System.String">
+						Clear
+					</attribute>
+					<attribute
+					name="innertext"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="tagname"
+					type="System.String">
+						input
+					</attribute>
+					<attribute
+					name="tagvalue"
+					type="System.String">
+						Clear
+					</attribute>
+					<attribute
+					name="autofocus"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="checked"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="disabled"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="height"
+					type="System.String">
+						0
+					</attribute>
+					<attribute
+					name="multiple"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="required"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="size"
+					type="System.String">
+						20
+					</attribute>
+					<attribute
+					name="type"
+					type="System.String">
+						button
+					</attribute>
+					<attribute
+					name="value"
+					type="System.String">
+						Clear
+					</attribute>
+					<attribute
+					name="width"
+					type="System.String">
+						0
+					</attribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="onclick"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+				</element>
+				<path>
+					/dom[@domain='www.ranorex.com']//input[#'Clear']
+				</path>
+			</info>
+			<helperscreenshot
+			guid="2a99329b-14b2-43d0-8249-bd0f9c4ab0f5">
+				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
+CiiigBr/AOrb6Gn0UUAf/9k=
+			</helperscreenshot>
+		</mouseitem>
+	</recorditems>
+	<repository
+	id="7f0d82f3-8aa2-4059-ab31-ee9d369b88e7"
+	name="TestRailJenkinsRepository"
+	relativepath="TestRailJenkinsRepository.rxrep">
+		<codegen
+		classname="TestRailJenkinsRepository"
+		namespace="TestRailJenkins">
+		</codegen>
+		<rootfolder
+		id="0c8dce96-a0b2-4edf-8eca-1e3f343bb269"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		ClearApp.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
